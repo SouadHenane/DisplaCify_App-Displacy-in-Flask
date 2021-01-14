@@ -20,6 +20,3 @@
 ![](images/screenshot03.png)
 
 
-#### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves@JCharisTech
